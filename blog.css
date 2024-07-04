@@ -1,0 +1,57 @@
+body{
+    background-image: url(/images/photo.jpg);
+    /* background-repeat: repeat-y;
+    background-position: auto;
+    image-orientation: flip;
+    image-resolution: auto; */
+    background-size:cover;
+}
+
+p{
+    font-size: 36px;
+    padding: 20px;
+    color: white;
+
+}
+
+#button{
+    width: 400px;
+    margin-left: auto; 
+    color: aliceblue;
+    font-size: 25px;  
+
+}
+
+.header{
+    text-align: center;
+    color: wheat;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.A{
+    background-color: blueviolet;
+    font-size: 25px;
+    color: beige;
+
+}
+ a{
+    color:beige;
+ }
+
+ 
+
+.footer{
+    /* text-align: center;
+    background-color: blueviolet;
+    font-size: 25px;
+    color: beige; */
+     width: 150px;
+
+    margin: auto; 
+    color: aliceblue;
+    font-size: 30px;  
+   background-color: darkgrey;
+   
+}
+
+
